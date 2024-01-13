@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.meu_mobile_app",
+    "sha256_cert_fingerprints":
+    ["19:55:90:A5:FE:40:AC:D4:56:F7:86:2F:F6:46:86:B1:F4:0A:51:A5:B7:53:F0:51:AA:83:55:2D:00:D8:AE:1C"]
+  }
+}]

@@ -1,0 +1,30 @@
+export const EmptyCoin = {
+  symbol: '',
+  address: '',
+  chainId: 0,
+  coinId: '',
+  decimals: 18,
+  graphAddress: '',
+  isMain: false,
+  isStable: false,
+  logoURI: '',
+  name: '',
+  onramper: true,
+  onrapmerId: '',
+  priceChange1h: 0,
+  priceChange24h: 0,
+  priceChange30d: 0,
+  priceChange7d: 0,
+  usdPrice: 0,
+  volume24h: 0,
+  marketCap: 0,
+  id: '',
+};
+
+export const EmptyBalance = {
+  coin: EmptyCoin,
+  value: 0,
+  symbol: '',
+  receiveTxns: 0,
+  avgPrice: 0,
+};
